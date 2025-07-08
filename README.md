@@ -34,14 +34,14 @@ This project follows a clean **n-tier architecture** pattern:
 
 ```
 ┌─────────────────────────────────────┐
-│        Presentation Layer                  │
-│     (ASP.NET MVC Controllers)       │
+│        Presentation Layer                                          │
+│     (ASP.NET MVC Controllers)                               │
 ├─────────────────────────────────────┤
-│         Business Layer                        │
-│    (Services & Business Logic)        │
+│         Business Layer                                                │
+│    (Services & Business Logic)                                │
 ├─────────────────────────────────────┤
-│          Data Layer                              │
-│   (Entity Framework & Models)      │
+│          Data Layer                                                     │
+│   (Entity Framework & Models)                             │
 └─────────────────────────────────────┘
 ```
 
